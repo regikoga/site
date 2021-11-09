@@ -1,0 +1,11 @@
+body{
+  background-color: #d3d3d3;  
+}
+footer{
+    background-color: grey;
+    bottom:0px;
+    border-color: greenyellow;
+    border-style: solid;
+    padding: 20px;
+}
+
